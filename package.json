@@ -1,0 +1,16 @@
+{
+  "name": "tree-structure-example",
+  "version": "1.0.0",
+  "description": "This is a example of generating a tree structure from a flat data structure in Javascript.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "vitest",
+    "start": "node src"
+  },
+  "type": "module",
+  "author": "Dylan Smith (@ayodyln)",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
